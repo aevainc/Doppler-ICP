@@ -7,7 +7,7 @@ Comparison of tunnel reconstructions using point-to-plane ICP (left) and Doppler
 ## Citations
 If you use Doppler ICP in your work, please cite the corresponding [paper](http://www.roboticsproceedings.org/rss18/p015.pdf).
 
-```
+```bibtex
 @INPROCEEDINGS{Hexsel-RSS-22, 
     AUTHOR    = {Bruno Hexsel AND Heethesh Vhavle AND Yi Chen}, 
     TITLE     = {{DICP: Doppler Iterative Closest Point Algorithm}}, 
