@@ -3,3 +3,18 @@ This is the code release for Doppler ICP (will be available soon). Doppler ICP i
 
 <img src="/images/Intro-RWT-02.jpg" alt="3D Reconstruction of Robin Williams Tunnel" width="600"/>
 Comparison of tunnel reconstructions using point-to-plane ICP (left) and Doppler ICP (right) with measurements collected by an FMCW LiDAR. Point-to-plane ICP fails in this degenerate case due to the lack of distinctive features in the scene whereas the Doppler ICP algorithm is able to reconstruct the scene with very low error.
+
+## Citations
+If you use Doppler ICP in your work, please cite the corresponding [paper](http://www.roboticsproceedings.org/rss18/p015.pdf).
+
+```
+@INPROCEEDINGS{Hexsel-RSS-22, 
+    AUTHOR    = {Bruno Hexsel AND Heethesh Vhavle AND Yi Chen}, 
+    TITLE     = {{DICP: Doppler Iterative Closest Point Algorithm}}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2022}, 
+    ADDRESS   = {New York City, NY, USA}, 
+    MONTH     = {June}, 
+    DOI       = {10.15607/RSS.2022.XVIII.015} 
+}
+```
