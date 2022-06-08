@@ -1,0 +1,10 @@
+dataset/sample/point_clouds/00001.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00003.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00004.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00005.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00006.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00002.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00007.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00008.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00009.bin filter=lfs diff=lfs merge=lfs -text
+dataset/sample/point_clouds/00010.bin filter=lfs diff=lfs merge=lfs -text
