@@ -23,7 +23,7 @@ make -j$(nproc) install-pip-package
 ```
 
 ## Dataset
-Download links for `CARLA-Town04-Straight-Walls` and `CARLA-Town05-Curved-Walls` sequences (TBD).
+Download [link](https://drive.google.com/file/d/11_-QnAEkIgUFYkeusQsIHa5_TiGNYqti/view?usp=sharing) for `CARLA-Town04-Straight-Walls` and `CARLA-Town05-Curved-Walls` sequences.
 
 Extract and copy the downloaded sequences to the `dataset/` directory in the repository root. A `sample` sequence has been provided in the dataset. The file structure should look like the following:
 ```
