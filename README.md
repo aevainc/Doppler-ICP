@@ -1,5 +1,6 @@
 # DICP: Doppler Iterative Closest Point Algorithm
-This is the code release for Doppler ICP.
+
+[Link to oral presentation at RSS 2022](https://youtu.be/HZqbmIaknNc?t=3114) | [Link to paper](http://www.roboticsproceedings.org/rss18/p015.pdf)
 
 Doppler ICP is a novel algorithm for point cloud registration for range sensors capable of measuring per-return instantaneous radial velocity. Existing variants of ICP that solely rely on geometry or other features generally fail to estimate the motion of the sensor correctly in scenarios that have non-distinctive features and/or repetitive geometric structures such as hallways, tunnels, highways, and bridges.
 
