@@ -14,10 +14,17 @@ Clone this repository along with the submodules.
 ```bash
 git clone --recurse-submodules https://github.com/aevainc/Doppler-ICP.git
 ```
+
+To download the sample dataset, pull the LFS files.
+```bash
+git lfs pull
+```
+
 Install the Python dependencies.
 ```bash
 pip install -r requirements.txt
 ```
+
 The Doppler ICP algorithm is implemented in [our fork](https://github.com/aevainc/Open3D) of Open3D library. You need to build the Open3D wheel file for Python from source and install it in your Python environment. See the [Open3D docs](http://www.open3d.org/docs/release/compilation.html) for more details.
 ```bash
 cd Open3D
